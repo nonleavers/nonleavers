@@ -14,41 +14,41 @@ Visit us @ https://nonleavers.com
 
 Links: 
 
-   **Website**  
-      https://nonleavers.com
+   &nbsp;&nbsp;**Website**  
+      &nbsp;&nbsp;&nbsp;&nbsp;https://nonleavers.com
 
-   **Email**  
-      nonleavers@gmail.com  
+   &nbsp;&nbsp;**Email**  
+      &nbsp;&nbsp;&nbsp;&nbsp;nonleavers@gmail.com  
 
-   **WhatsApp**  
-      https://wa.me/+971503383219  
+   &nbsp;&nbsp;**WhatsApp**  
+      &nbsp;&nbsp;&nbsp;&nbsp;https://wa.me/+971503383219  
 
-   **Instagram** /nonleavers    
-      https://www.instagram.com/nonleavers  
+   &nbsp;&nbsp;**Instagram** /nonleavers    
+      &nbsp;&nbsp;&nbsp;&nbsp;https://www.instagram.com/nonleavers  
 
-   **YouTube** /@nonleavers  
-      https://www.youtube.com/@nonleavers  
+   &nbsp;&nbsp;**YouTube** /@nonleavers  
+      &nbsp;&nbsp;&nbsp;&nbsp;https://www.youtube.com/@nonleavers  
 
-   **LinkedIn** /in/nonleavers  
-      https://www.linkedin.com/in/nonleavers  
+   &nbsp;&nbsp;**LinkedIn** /in/nonleavers  
+      &nbsp;&nbsp;&nbsp;&nbsp;https://www.linkedin.com/in/nonleavers  
 
-   **Facebook** /nonleavers  
-      https://www.facebook.com/nonleavers  
+   &nbsp;&nbsp;**Facebook** /nonleavers  
+      &nbsp;&nbsp;&nbsp;&nbsp;https://www.facebook.com/nonleavers  
 
-   **Freelancer** /u/nonleavers  
-      https://www.freelancer.com/u/nonleavers  
+   &nbsp;&nbsp;**Freelancer** /u/nonleavers  
+      &nbsp;&nbsp;&nbsp;&nbsp;https://www.freelancer.com/u/nonleavers  
 
-   **Fiverr** /nonleavers  
-      https://www.fiverr.com/nonleavers  
+   &nbsp;&nbsp;**Fiverr** /nonleavers  
+      &nbsp;&nbsp;&nbsp;&nbsp;https://www.fiverr.com/nonleavers  
 
-   **TikTok** /@nonleavers  
-      https://www.tiktok.com/@nonleavers  
+   &nbsp;&nbsp;**TikTok** /@nonleavers  
+      &nbsp;&nbsp;&nbsp;&nbsp;https://www.tiktok.com/@nonleavers  
 
-   **X (Twitter)** /nonleavers  
-      https://x.com/nonleavers  
+   &nbsp;&nbsp;**X (Twitter)** /nonleavers  
+      &nbsp;&nbsp;&nbsp;&nbsp;https://x.com/nonleavers  
 
-   **GitHub** /nonleavers  
-      https://github.com/nonleavers  
+   &nbsp;&nbsp;**GitHub** /nonleavers  
+      &nbsp;&nbsp;&nbsp;&nbsp;https://github.com/nonleavers  
 
 <!--
 **nonleavers/nonleavers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
