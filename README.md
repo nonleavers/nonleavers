@@ -14,40 +14,40 @@ Visit us @ https://nonleavers.com
 
 Links: 
 
-   Website
+   Website : 
       https://nonleavers.com
 
-   Email
+   Email : 
       nonleavers@gmail.com
 
-   WhatsApp
+   WhatsApp : 
       https://wa.me/+971503383219
 
-   Instagram /nonleavers
+   Instagram /nonleavers : 
       https://www.instagram.com/nonleavers
 
-   YouTube /@nonleavers
+   YouTube /@nonleavers : 
       https://www.youtube.com/@nonleavers
 
-   LinkedIn /in/nonleavers
+   LinkedIn /in/nonleavers : 
       https://www.linkedin.com/in/nonleavers
 
-   Facebook /nonleavers
+   Facebook /nonleavers : 
       https://www.facebook.com/nonleavers
 
-   Freelancer /u/nonleavers
+   Freelancer /u/nonleavers : 
       https://www.freelancer.com/u/nonleavers
 
-   Fiverr /nonleavers
+   Fiverr /nonleavers : 
       https://www.fiverr.com/nonleavers
 
-   TikTok /@nonleavers
+   TikTok /@nonleavers : 
       https://www.tiktok.com/@nonleavers
 
-   X (Twitter) /nonleavers
+   X (Twitter) /nonleavers : 
       https://x.com/nonleavers
 
-   GitHub /nonleavers
+   GitHub /nonleavers : 
       https://github.com/nonleavers
 
 <!--
