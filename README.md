@@ -14,41 +14,41 @@ Visit us @ https://nonleavers.com
 
 Links: 
 
-   Website :  
+   **Website**  
       https://nonleavers.com
 
-   Email : 
-      nonleavers@gmail.com
+   **Email**  
+      nonleavers@gmail.com  
 
-   WhatsApp : 
-      https://wa.me/+971503383219
+   **WhatsApp**  
+      https://wa.me/+971503383219  
 
-   Instagram /nonleavers : 
-      https://www.instagram.com/nonleavers
+   **Instagram** /nonleavers    
+      https://www.instagram.com/nonleavers  
 
-   YouTube /@nonleavers : 
-      https://www.youtube.com/@nonleavers
+   **YouTube** /@nonleavers  
+      https://www.youtube.com/@nonleavers  
 
-   LinkedIn /in/nonleavers : 
-      https://www.linkedin.com/in/nonleavers
+   **LinkedIn** /in/nonleavers  
+      https://www.linkedin.com/in/nonleavers  
 
-   Facebook /nonleavers : 
-      https://www.facebook.com/nonleavers
+   **Facebook** /nonleavers  
+      https://www.facebook.com/nonleavers  
 
-   Freelancer /u/nonleavers : 
-      https://www.freelancer.com/u/nonleavers
+   **Freelancer** /u/nonleavers  
+      https://www.freelancer.com/u/nonleavers  
 
-   Fiverr /nonleavers : 
-      https://www.fiverr.com/nonleavers
+   **Fiverr** /nonleavers  
+      https://www.fiverr.com/nonleavers  
 
-   TikTok /@nonleavers : 
-      https://www.tiktok.com/@nonleavers
+   **TikTok** /@nonleavers  
+      https://www.tiktok.com/@nonleavers  
 
-   X (Twitter) /nonleavers : 
-      https://x.com/nonleavers
+   **X (Twitter)** /nonleavers  
+      https://x.com/nonleavers  
 
-   GitHub /nonleavers : 
-      https://github.com/nonleavers
+   **GitHub** /nonleavers  
+      https://github.com/nonleavers  
 
 <!--
 **nonleavers/nonleavers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
