@@ -3,6 +3,9 @@
 
 ![cover image last big crop](https://github.com/user-attachments/assets/11c1b3f7-dd5f-429b-b5ad-095265d4f004)
 
+![cover image last big crop](https://github.com/user-attachments/assets/dc9d851f-a3aa-4839-8ba2-6db0123cb9f4)
+
+
 
 ## Hi there 👋
 
