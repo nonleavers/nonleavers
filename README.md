@@ -30,8 +30,8 @@ Links:
    &nbsp;&nbsp;**YouTube** /@nonleavers  
       &nbsp;&nbsp;&nbsp;&nbsp;https://www.youtube.com/@nonleavers  
 
-   &nbsp;&nbsp;**LinkedIn** /in/nonleavers  
-      &nbsp;&nbsp;&nbsp;&nbsp;https://www.linkedin.com/in/nonleavers  
+   &nbsp;&nbsp;**LinkedIn** /company/nonleavers  
+      &nbsp;&nbsp;&nbsp;&nbsp;https://www.linkedin.com/company/nonleavers  
 
    &nbsp;&nbsp;**Facebook** /nonleavers  
       &nbsp;&nbsp;&nbsp;&nbsp;https://www.facebook.com/nonleavers  
