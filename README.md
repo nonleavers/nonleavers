@@ -41,7 +41,7 @@ For dependable IT solutions that don’t just meet but exceed expectations, part
 &nbsp;├─ **TikTok** /@nonleavers  
 &nbsp;├── [*tiktok.com/@nonleavers*](https://tiktok.com/@nonleavers)  
 &nbsp;├─ **X (Twitter)** /nonleavers  
-&nbsp;├── [*x.com/nonleavers*](x.com/nonleavers)  
+&nbsp;├── [*x.com/nonleavers*](https://x.com/nonleavers)  
 &nbsp;├─ **GitHub** /nonleavers  
 &nbsp;└── [*github.com/nonleavers*](https://github.com/nonleavers)  
 
