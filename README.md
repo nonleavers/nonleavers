@@ -20,7 +20,7 @@ For dependable IT solutions that don’t just meet but exceed expectations, part
 Links:
 
    &nbsp;&nbsp;**Website**  
-      &nbsp;&nbsp;&nbsp;&nbsp;> *https://nonleavers.com*
+      &nbsp;&nbsp;&nbsp;&nbsp; *> https://nonleavers.com*
 
    &nbsp;&nbsp;**Email**  
       &nbsp;&nbsp;&nbsp;&nbsp;*> nonleavers@gmail.com*  
@@ -29,7 +29,7 @@ Links:
       &nbsp;&nbsp;&nbsp;&nbsp;*> https://wa.me/+971503383219*  
 
    &nbsp;&nbsp;**Instagram** /nonleavers    
-      &nbsp;&nbsp;&nbsp;&nbsp;> *https://www.instagram.com/nonleavers*  
+      &nbsp;&nbsp;&nbsp;&nbsp;*>https://www.instagram.com/nonleavers*  
 
    &nbsp;&nbsp;**YouTube** /@nonleavers  
       &nbsp;&nbsp;&nbsp;&nbsp;*https://www.youtube.com/@nonleavers*  
