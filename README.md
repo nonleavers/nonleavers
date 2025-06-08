@@ -4,6 +4,15 @@
 
 ``` never leaves you stranded in your technology journey █ ```
 
+<p align="center">
+  <img src="https://example.com/logo.png" width="200"/>
+  <br/>
+  <b>Welcome to My Project</b>
+</p>
+
+<p align="center">
+  Centered text or image
+</p>
 
 <br />
 Hi there 👋
