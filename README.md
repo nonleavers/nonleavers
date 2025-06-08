@@ -2,7 +2,7 @@
 
 
 
-> never leave you stranded in your technology journey █
+``` never leave you stranded in your technology journey █ ```
 
 
 ## Hi there 👋
@@ -13,7 +13,7 @@ Our dedicated team of IT professionals is skilled in handling everything from so
 
 For dependable IT solutions that don’t just meet but exceed expectations, partner with non Leavers. Connect with us today at our website or phone for a consultation.
 
-Visit us @ ```https://nonleavers.com ```
+> Visit us @ https://nonleavers.com 
 
 
 Links:
