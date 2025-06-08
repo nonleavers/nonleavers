@@ -43,7 +43,7 @@ For dependable IT solutions that don’t just meet but exceed expectations, part
 &nbsp;├─ **X (Twitter)** /nonleavers  
 &nbsp;├── *https://x.com/nonleavers*  
 &nbsp;├─ **GitHub** /nonleavers  
-&nbsp;└── *github.com/nonleavers*  
+&nbsp;└── [*github.com/nonleavers*](https://github.com/nonleavers)  
 
 
 ---
