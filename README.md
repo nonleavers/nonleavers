@@ -32,8 +32,6 @@ For dependable IT solutions that don’t just meet but exceed expectations, part
 &nbsp;&nbsp;├── [*youtube.com/@nonleavers*](https://youtube.com/@nonleavers)  
 &nbsp;&nbsp;├─ **Facebook** /nonleavers  
 &nbsp;&nbsp;├── [*facebook.com/nonleavers*](https://facebook.com/nonleavers)  
-&nbsp;&nbsp;├─ **Freelancer** /u/nonleavers  
-&nbsp;&nbsp;├── [*freelancer.com/u/nonleavers*](https://freelancer.com/u/nonleavers)  
 &nbsp;&nbsp;├─ **Fiverr** /nonleavers  
 &nbsp;&nbsp;├── [*fiverr.com/nonleavers*](https://fiverr.com/nonleavers)  
 &nbsp;&nbsp;├─ **TikTok** /@nonleavers  
@@ -42,6 +40,8 @@ For dependable IT solutions that don’t just meet but exceed expectations, part
 &nbsp;&nbsp;├── [*x.com/nonleavers*](https://x.com/nonleavers)  
 &nbsp;&nbsp;├─ **GitHub** /nonleavers  
 &nbsp;&nbsp;├── [*github.com/nonleavers*](https://github.com/nonleavers)    
+&nbsp;&nbsp;├─ **Freelancer** /u/nonleavers  
+&nbsp;&nbsp;├── [*freelancer.com/u/nonleavers*](https://freelancer.com/u/nonleavers)  
 &nbsp;&nbsp;├─ **LinkedIn** /company/nonleavers  
 &nbsp;&nbsp;└── [*linkedin.com/company/nonleavers*](https://linkedin.com/company/nonleavers)  
 
