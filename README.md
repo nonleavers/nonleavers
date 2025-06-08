@@ -29,7 +29,7 @@ For dependable IT solutions that don’t just meet but exceed expectations, part
 &nbsp;&nbsp;├─ **Instagram** /nonleavers    
 &nbsp;&nbsp;├── [*instagram.com/nonleavers*](https://instagram.com/nonleavers)  
 &nbsp;&nbsp;├─ **YouTube** /@nonleavers  
-&nbsp;&nbsp;├── [*youtube.com/@nonleavers*](https://youtube.com/@nonleavers)
+&nbsp;&nbsp;├── [*youtube.com/@nonleavers*](https://youtube.com/@nonleavers)  
 &nbsp;&nbsp;├─ **Facebook** /nonleavers  
 &nbsp;&nbsp;├── [*facebook.com/nonleavers*](https://facebook.com/nonleavers)  
 &nbsp;&nbsp;├─ **Freelancer** /u/nonleavers  
