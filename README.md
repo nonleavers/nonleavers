@@ -20,8 +20,8 @@ For dependable IT solutions that don’t just meet but exceed expectations, part
 🔗 Links:
 
 .<br/>
-│──   &nbsp;&nbsp;**Website**  
-│────      &nbsp;&nbsp;&nbsp;&nbsp; *https://nonleavers.com*  
+├──   &nbsp;&nbsp;**Website**  
+├────      &nbsp;&nbsp;&nbsp;&nbsp; *https://nonleavers.com*  
 │<br/>
 │──   &nbsp;&nbsp;**Email**  
 │────      &nbsp;&nbsp;&nbsp;&nbsp;*nonleavers@gmail.com*  
