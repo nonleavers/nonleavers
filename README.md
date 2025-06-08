@@ -55,7 +55,7 @@ Links:
       &nbsp;&nbsp;&nbsp;&nbsp;*https://github.com/nonleavers*  
 
 
-<p style="color: #00ff00;">
+<p style="color: green;">
 ⚡ What are you waiting for?<br/>
 🔌 You have more than one mode to connect...
 </p>
