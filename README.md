@@ -55,10 +55,12 @@ Links:
       &nbsp;&nbsp;&nbsp;&nbsp;*https://github.com/nonleavers*  
 
 
-<p style="color: green;">
-⚡ What are you waiting for?<br/>
-🔌 You have more than one mode to connect...
-</p>
+---
+
+**⚡ What are you waiting for?<br/>
+🔌 You have more than one mode to connect...**
+
+---
 
 <!--
 **nonleavers/nonleavers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
