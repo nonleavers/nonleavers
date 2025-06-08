@@ -2,7 +2,7 @@
 
 
 
-``` never leave you stranded in your technology journey █ ```
+``` never leaves you stranded in your technology journey █ ```
 
 
 ## Hi there 👋
