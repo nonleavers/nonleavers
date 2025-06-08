@@ -4,7 +4,7 @@
 
 
 <p align="center">
-   <pre><code>never leaves you stranded in your technology journey █ </code></pre>
+   <code>never leaves you stranded in your technology journey █ </code>
 </p>
 
 
