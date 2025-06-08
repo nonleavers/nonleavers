@@ -1,9 +1,9 @@
 ![cover image last big crop](https://github.com/user-attachments/assets/dc9d851f-a3aa-4839-8ba2-6db0123cb9f4)
 
 
-
+![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/980c8140-72b2-47ef-864c-2fa079ff6a1b)
 <p align="center">
-   <code>never leaves you stranded in your technology journey █ ![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/980c8140-72b2-47ef-864c-2fa079ff6a1b) </code>
+   <code>never leaves you stranded in your technology journey █  </code>
 </p>
 
 
