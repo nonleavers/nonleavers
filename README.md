@@ -23,7 +23,6 @@ For dependable IT solutions that don’t just meet but exceed expectations, part
 <br />
 
 <pre>🔗 Links:  </pre>
-<div align="center">
 &nbsp;&nbsp;&nbsp;├─ **Website**  
 &nbsp;&nbsp;&nbsp;├── [*nonleavers.com*](https://nonleavers.com)  
 &nbsp;&nbsp;&nbsp;├─ **Email**  
@@ -48,7 +47,6 @@ For dependable IT solutions that don’t just meet but exceed expectations, part
 &nbsp;&nbsp;&nbsp;├── [*freelancer.com/u/nonleavers*](https://freelancer.com/u/nonleavers)  
 &nbsp;&nbsp;&nbsp;├─ **LinkedIn** /company/nonleavers  
 &nbsp;&nbsp;&nbsp;└── [*linkedin.com/company/nonleavers*](https://linkedin.com/company/nonleavers)  
-</div>
 
 ---
 
