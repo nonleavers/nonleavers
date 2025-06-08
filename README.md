@@ -1,6 +1,9 @@
 ![cover image last big crop](https://github.com/user-attachments/assets/dc9d851f-a3aa-4839-8ba2-6db0123cb9f4)
 
 
+```
+> never leave you stranded in your technology journey █
+```
 
 ## Hi there 👋
 
