@@ -22,7 +22,7 @@ For dependable IT solutions that don’t just meet but exceed expectations, part
 .<br/>
 ├──   &nbsp;&nbsp;**Website**  
 ├────      &nbsp;&nbsp;&nbsp;&nbsp; *https://nonleavers.com*  
-│<br/>
+&nbsp;│<br/>
 ├──   &nbsp;&nbsp;**Email**  
 ├────      &nbsp;&nbsp;&nbsp;&nbsp;*nonleavers@gmail.com*  
 │<br/>
