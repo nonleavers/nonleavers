@@ -54,9 +54,8 @@ Links:
    &nbsp;&nbsp;**GitHub** /nonleavers  
       &nbsp;&nbsp;&nbsp;&nbsp;*https://github.com/nonleavers*  
 
-What do you waiting for. you have more than one mode to connect...
 
-<p style="font-family: monospace; color: #0f0;">
+<p style="color: #00ff00;">
 ⚡ What are you waiting for?<br/>
 🔌 You have more than one mode to connect...
 </p>
