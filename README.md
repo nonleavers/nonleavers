@@ -7,6 +7,11 @@
   ``` never leaves you stranded in your technology journey █ ```
 </p>
 
+<p color="green">
+  never leaves you stranded 
+</p>
+
+
 <br />
 Hi there 👋
 
