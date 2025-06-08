@@ -6,7 +6,7 @@
 
 
 
-### Hi there 👋
+ Hi there 👋
 
 non Leavers is a dynamic IT services firm based in Dubai and provide service all around the world, specializing in comprehensive tech solutions and unwavering support for your projects, no matter the challenge. Our mission is to stand by you through thick and thin, ensuring that we never leave you stranded in your technology journey.
 
@@ -17,7 +17,7 @@ For dependable IT solutions that don’t just meet but exceed expectations, part
 > Visit us @ https://nonleavers.com 
 
 
-##🔗 Links:
+`🔗 Links:`
 
 .
 │──   &nbsp;&nbsp;**Website**  
