@@ -21,27 +21,27 @@ For dependable IT solutions that don’t just meet but exceed expectations, part
 
 <pre>🔗 Links:  </pre>
 &nbsp;├─ **Website**  
-&nbsp;├── *https://nonleavers.com*  
+&nbsp;├── [*nonleavers.com*](https://nonleavers.com)  
 &nbsp;├─ **Email**  
-&nbsp;├── *nonleavers@gmail.com*  
+&nbsp;├── [*nonleavers@gmail.com*](mailto:nonleavers@gmail.com)  
 &nbsp;├─ **WhatsApp**  
-&nbsp;├── *https://wa.me/+971503383219*  
+&nbsp;├── [*wa.me/+971503383219*](https://wa.me/+971503383219)  
 &nbsp;├─ **Instagram** /nonleavers    
-&nbsp;├── *https://instagram.com/nonleavers*  
+&nbsp;├── [*instagram.com/nonleavers*](https://instagram.com/nonleavers)  
 &nbsp;├─ **YouTube** /@nonleavers  
-&nbsp;├── *https://youtube.com/@nonleavers*  
+&nbsp;├── [*youtube.com/@nonleavers*](https://youtube.com/@nonleavers)  
 &nbsp;├─ **LinkedIn** /company/nonleavers  
-&nbsp;├── *https://linkedin.com/company/nonleavers*  
+&nbsp;├── [*linkedin.com/company/nonleavers*](https://linkedin.com/company/nonleavers)  
 &nbsp;├─ **Facebook** /nonleavers  
-&nbsp;├── *https://facebook.com/nonleavers*  
+&nbsp;├── [*facebook.com/nonleavers*](https://facebook.com/nonleavers)  
 &nbsp;├─ **Freelancer** /u/nonleavers  
-&nbsp;├── *https://freelancer.com/u/nonleavers*  
+&nbsp;├── [*freelancer.com/u/nonleavers*](https://freelancer.com/u/nonleavers)  
 &nbsp;├─ **Fiverr** /nonleavers  
-&nbsp;├── *https://fiverr.com/nonleavers*  
+&nbsp;├── [*fiverr.com/nonleavers*](https://fiverr.com/nonleavers)  
 &nbsp;├─ **TikTok** /@nonleavers  
-&nbsp;├── *https://tiktok.com/@nonleavers*  
+&nbsp;├── [*tiktok.com/@nonleavers*](https://tiktok.com/@nonleavers)  
 &nbsp;├─ **X (Twitter)** /nonleavers  
-&nbsp;├── *https://x.com/nonleavers*  
+&nbsp;├── [*x.com/nonleavers*](x.com/nonleavers)  
 &nbsp;├─ **GitHub** /nonleavers  
 &nbsp;└── [*github.com/nonleavers*](https://github.com/nonleavers)  
 
