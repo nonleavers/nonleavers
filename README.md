@@ -20,27 +20,27 @@ For dependable IT solutions that don’t just meet but exceed expectations, part
 
 
 <pre> 🔗 Links:  </pre>
-├──  &nbsp;🌐**Website**  
+├──  &nbsp;**Website**  
 ├────     &nbsp;&nbsp; *https://nonleavers.com*  
-├──  &nbsp;✉️**Email**  
+├──  &nbsp;✉**Email**  
 ├────     &nbsp;&nbsp;*nonleavers@gmail.com*  
-├──  &nbsp;🟢**WhatsApp**  
+├──  &nbsp;**WhatsApp**  
 ├────     &nbsp;&nbsp;*https://wa.me/+971503383219*  
-├──  &nbsp;📸**Instagram** /nonleavers    
+├──  &nbsp;**Instagram** /nonleavers    
 ├────     &nbsp;&nbsp;*https://www.instagram.com/nonleavers*  
-├──  &nbsp;▶️**YouTube** /@nonleavers  
+├──  &nbsp;**YouTube** /@nonleavers  
 ├────    &nbsp;&nbsp;*https://www.youtube.com/@nonleavers*  
-├──  &nbsp;💼**LinkedIn** /company/nonleavers  
+├──  &nbsp;**LinkedIn** /company/nonleavers  
 ├────     &nbsp;&nbsp;*https://www.linkedin.com/company/nonleavers*  
-├──  &nbsp;📘**Facebook** /nonleavers  
+├──  &nbsp;**Facebook** /nonleavers  
 ├────     &nbsp;&nbsp;*https://www.facebook.com/nonleavers*  
-├──  &nbsp;🔨**Freelancer** /u/nonleavers  
+├──  &nbsp;**Freelancer** /u/nonleavers  
 ├────     &nbsp;&nbsp;*https://www.freelancer.com/u/nonleavers*  
-├──  &nbsp;🎨**Fiverr** /nonleavers  
+├──  &nbsp;**Fiverr** /nonleavers  
 ├────     &nbsp;&nbsp;*https://www.fiverr.com/nonleavers*  
-├──  &nbsp;🎵**TikTok** /@nonleavers  
+├──  &nbsp;**TikTok** /@nonleavers  
 ├────     &nbsp;&nbsp;*https://www.tiktok.com/@nonleavers*  
-├──  &nbsp;🐦**X (Twitter)** /nonleavers  
+├──  &nbsp;**X (Twitter)** /nonleavers  
 ├────     &nbsp;&nbsp;*https://x.com/nonleavers*  
 ├──  &nbsp;**GitHub** /nonleavers  
 └────     &nbsp;&nbsp;*https://github.com/nonleavers*  
