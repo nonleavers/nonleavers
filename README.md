@@ -18,7 +18,7 @@ Visit us @ ```https://nonleavers.com ```
 
 Links:
 
-   ```&nbsp;&nbsp;**Website** ```  
+   &nbsp;&nbsp;**Website** 
       &nbsp;&nbsp;&nbsp;&nbsp;https://nonleavers.com
 
    &nbsp;&nbsp;**Email**  
