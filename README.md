@@ -20,30 +20,30 @@ For dependable IT solutions that don’t just meet but exceed expectations, part
 <br /><br />
 
 <pre>🔗 Links:  </pre>
-&nbsp;&nbsp;&nbsp;├─ **Website**  
-&nbsp;&nbsp;&nbsp;├── *https://nonleavers.com*  
-&nbsp;&nbsp;&nbsp;├─ **Email**  
-&nbsp;&nbsp;&nbsp;├── *nonleavers@gmail.com*  
-&nbsp;&nbsp;&nbsp;├─ **WhatsApp**  
-&nbsp;&nbsp;&nbsp;├── *https://wa.me/+971503383219*  
-&nbsp;&nbsp;&nbsp;├─ **Instagram** /nonleavers    
-&nbsp;&nbsp;&nbsp;├── *https://instagram.com/nonleavers*  
-&nbsp;&nbsp;&nbsp;├─ **YouTube** /@nonleavers  
-&nbsp;&nbsp;&nbsp;├── *https://youtube.com/@nonleavers*  
-&nbsp;&nbsp;&nbsp;├─ **LinkedIn** /company/nonleavers  
-&nbsp;&nbsp;&nbsp;├── *https://linkedin.com/company/nonleavers*  
-&nbsp;&nbsp;&nbsp;├─ **Facebook** /nonleavers  
-&nbsp;&nbsp;&nbsp;├── *https://facebook.com/nonleavers*  
-&nbsp;&nbsp;&nbsp;├─ **Freelancer** /u/nonleavers  
-&nbsp;&nbsp;&nbsp;├── *https://freelancer.com/u/nonleavers*  
-&nbsp;&nbsp;&nbsp;├─ **Fiverr** /nonleavers  
-&nbsp;&nbsp;&nbsp;├── *https://fiverr.com/nonleavers*  
-&nbsp;&nbsp;&nbsp;├─ **TikTok** /@nonleavers  
-&nbsp;&nbsp;&nbsp;├── *https://tiktok.com/@nonleavers*  
-&nbsp;&nbsp;&nbsp;├─ **X (Twitter)** /nonleavers  
-&nbsp;&nbsp;&nbsp;├── *https://x.com/nonleavers*  
-&nbsp;&nbsp;&nbsp;├─ **GitHub** /nonleavers  
-&nbsp;&nbsp;&nbsp;└── *https://github.com/nonleavers*  
+&nbsp;├─ **Website**  
+&nbsp;├── *https://nonleavers.com*  
+&nbsp;├─ **Email**  
+&nbsp;├── *nonleavers@gmail.com*  
+&nbsp;├─ **WhatsApp**  
+&nbsp;├── *https://wa.me/+971503383219*  
+&nbsp;├─ **Instagram** /nonleavers    
+&nbsp;├── *https://instagram.com/nonleavers*  
+&nbsp;├─ **YouTube** /@nonleavers  
+&nbsp;├── *https://youtube.com/@nonleavers*  
+&nbsp;├─ **LinkedIn** /company/nonleavers  
+&nbsp;├── *https://linkedin.com/company/nonleavers*  
+&nbsp;├─ **Facebook** /nonleavers  
+&nbsp;├── *https://facebook.com/nonleavers*  
+&nbsp;├─ **Freelancer** /u/nonleavers  
+&nbsp;├── *https://freelancer.com/u/nonleavers*  
+&nbsp;├─ **Fiverr** /nonleavers  
+&nbsp;├── *https://fiverr.com/nonleavers*  
+&nbsp;├─ **TikTok** /@nonleavers  
+&nbsp;├── *https://tiktok.com/@nonleavers*  
+&nbsp;├─ **X (Twitter)** /nonleavers  
+&nbsp;├── *https://x.com/nonleavers*  
+&nbsp;├─ **GitHub** /nonleavers  
+&nbsp;└── *https://github.com/nonleavers*  
 
 
 ---
