@@ -17,7 +17,7 @@ For dependable IT solutions that don’t just meet but exceed expectations, part
 > Visit us @ https://nonleavers.com 
 
 
-###🔗 Links:
+🔗 ###Links:
 
 .<br/>
 │──   &nbsp;&nbsp;**Website**  
@@ -26,7 +26,7 @@ For dependable IT solutions that don’t just meet but exceed expectations, part
 │──   &nbsp;&nbsp;**Email**  
 │────      &nbsp;&nbsp;&nbsp;&nbsp;*nonleavers@gmail.com*  
 │<br/>
-│────   &nbsp;&nbsp;**WhatsApp**  
+│──   &nbsp;&nbsp;**WhatsApp**  
 │────      &nbsp;&nbsp;&nbsp;&nbsp;*https://wa.me/+971503383219*  
 │<br/>
 │──   &nbsp;&nbsp;**Instagram** /nonleavers    
