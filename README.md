@@ -2,11 +2,11 @@
 
 
 
-<pre>```
+
 <p align="center">
-   never leaves you stranded in your technology journey █ 
+   <code>never leaves you stranded in your technology journey █ </code>
 </p>
-```</pre>
+
 
 <br />
 Hi there 👋
