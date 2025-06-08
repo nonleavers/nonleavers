@@ -5,7 +5,7 @@
 
 
 <p align="center">
-   <code style="vertical-align: 40px;">never leaves you stranded in your technology journey...</code>  <img src="https://github.com/user-attachments/assets/980c8140-72b2-47ef-864c-2fa079ff6a1b" width="3" height="12" style="vertical-align: -44px;" />  
+   <code >never leaves you stranded in your technology journey...</code>  <img src="https://github.com/user-attachments/assets/980c8140-72b2-47ef-864c-2fa079ff6a1b" width="3" height="10" style="vertical-align: -44px;" />  
 </p>
 
 
