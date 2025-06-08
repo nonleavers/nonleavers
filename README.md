@@ -4,11 +4,7 @@
 
 
 <p align="center">
-  ``` never leaves you stranded in your technology journey █ ```
-</p>
-
-<p color="green">
-  never leaves you stranded 
+  <pre>``` never leaves you stranded in your technology journey █ ```</pre>
 </p>
 
 
