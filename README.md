@@ -51,7 +51,7 @@ For dependable IT solutions that don’t just meet but exceed expectations, part
 &nbsp;&nbsp;&nbsp;├─ **Freelancer** /u/nonleavers  
 &nbsp;&nbsp;&nbsp;├── [*freelancer.com/u/nonleavers*](https://freelancer.com/u/nonleavers)  
 &nbsp;&nbsp;&nbsp;├─ **LinkedIn** /company/nonleavers  
-&nbsp;&nbsp;&nbsp;└── [*linkedin.com/company/nonleavers*](https://linkedin.com/company/nonleavers)  
+&nbsp;&nbsp;&nbsp;└── [![*logo*](https://img.shields.io/badge/👉%20linkedin.com/company/nonleavers-0078D7?style=flat-square&logoColor=white)]([https://nonleavers.com](https://linkedin.com/company/nonleavers))  <!---[*linkedin.com/company/nonleavers*](https://linkedin.com/company/nonleavers)   -->
 
 
 
