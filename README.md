@@ -4,7 +4,7 @@
 
 <p align="center">
   <!--- <code> never leave you stranded in your technology journey...</code> <img src="https://github.com/user-attachments/assets/8b1a7d43-2958-46c2-9d75-94666f048de6" width="3" height="8" style="vertical-align: -44px;" />  --->
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=900&color=00FF00&center=true&repeat=true&width=480&weight=600&letterSpacing=0&height=20&lines=Did+you+know+that+%3F;we+never+leave+you+stranded+in+your+technology+journey..." /> 
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=900&color=00FF00&center=true&repeat=true&width=480&weight=600&letterSpacing=0&height=20&lines=Did+you+know+that+%3F;we+never+leave+you+stranded+in+your+technology+journey..." />   <!-- this tool can't wrap lines to 2 lines when the line is big -->
   
 </p>
 
