@@ -26,7 +26,7 @@ For dependable IT solutions that don’t just meet but exceed expectations, part
 <pre>🔗 Links:  </pre>
 
 
-![Links](https://img.shields.io/badge/👉%20Links-0078D7?style=flat-square&logoColor=white)(https://nonleavers.com)
+[![Links](https://img.shields.io/badge/👉%20Links-0078D7?style=flat-square&logoColor=white)](https://nonleavers.com)
 
 &nbsp;&nbsp;&nbsp;├─ **Website**  
 &nbsp;&nbsp;&nbsp;├── [*nonleavers.com*](https://nonleavers.com)  
