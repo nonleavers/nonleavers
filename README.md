@@ -3,7 +3,7 @@
 
 
 <p align="center">
-   <code> never leave you stranded in your technology journey... </code> <img src="[https://github.com/user-attachments/assets/980c8140-72b2-47ef-864c-2fa079ff6a1b](https://github.com/user-attachments/assets/8b1a7d43-2958-46c2-9d75-94666f048de6)" width="3" height="17" style="vertical-align: -44px;" />  
+   <code> never leave you stranded in your technology journey... </code> <img src="https://github.com/user-attachments/assets/8b1a7d43-2958-46c2-9d75-94666f048de6" width="3" height="17" style="vertical-align: -44px;" />  
 </p>
 
 
