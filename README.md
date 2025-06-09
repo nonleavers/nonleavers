@@ -4,7 +4,7 @@
 
 <p align="center">
   <!--- <code> never leave you stranded in your technology journey...</code>  --->
-   <img style="margin-top: 2rem" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&pause=1000&color=00FF00&repeat=false&width=435&lines=Did+you+know+that+%3F;we+never+leave+you+stranded+in+your+technology+journey...">
+   <img style="margin-top: 2rem" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&pause=10000&color=00FF00&repeat=false&width=800&lines=Did+you+know+that+%3F;we+never+leave+you+stranded+in+your+technology+journey...">
 
 
 
