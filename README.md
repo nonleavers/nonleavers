@@ -33,25 +33,25 @@ For dependable IT solutions that don’t just meet but exceed expectations, part
 &nbsp;&nbsp;&nbsp;├─ **Email**  
 &nbsp;&nbsp;&nbsp;├── [![logo](https://img.shields.io/badge/👉%20nonleavers@gmail.com-FF2185?style=flat-square)](mailto:nonleavers@gmail.com) <!--- [*nonleavers@gmail.com*](mailto:nonleavers@gmail.com)  -->
 &nbsp;&nbsp;&nbsp;├─ **WhatsApp**  
-&nbsp;&nbsp;&nbsp;├── [*wa.me/+971503383219*](https://wa.me/+971503383219)  
+&nbsp;&nbsp;&nbsp;├── [![logo](https://img.shields.io/badge/👉%20wa.me/+971503383219-25D366?style=flat-square)](https://wa.me/+971503383219) <!-- [*wa.me/+971503383219*](https://wa.me/+971503383219) -->  
 &nbsp;&nbsp;&nbsp;├─ **X (Twitter)** /nonleavers  
-&nbsp;&nbsp;&nbsp;├── [*x.com/nonleavers*](https://x.com/nonleavers)  
+&nbsp;&nbsp;&nbsp;├── [![logo](https://img.shields.io/badge/👉%20x.com/nonleavers-000000?style=flat-square)](https://x.com/nonleavers) <!-- [*x.com/nonleavers*](https://x.com/nonleavers) -->  
 &nbsp;&nbsp;&nbsp;├─ **Fiverr** /nonleavers  
-&nbsp;&nbsp;&nbsp;├── [*fiverr.com/nonleavers*](https://fiverr.com/nonleavers)  
+&nbsp;&nbsp;&nbsp;├── [![logo](https://img.shields.io/badge/👉%20fiverr.com/nonleavers-1DBF73?style=flat-square)](https://fiverr.com/nonleavers) <!-- [*fiverr.com/nonleavers*](https://fiverr.com/nonleavers) -->  
 &nbsp;&nbsp;&nbsp;├─ **GitHub** /nonleavers  
-&nbsp;&nbsp;&nbsp;├── [*github.com/nonleavers*](https://github.com/nonleavers)    
+&nbsp;&nbsp;&nbsp;├── [![logo](https://img.shields.io/badge/👉%20github.com/nonleavers-181717?style=flat-square)](https://github.com/nonleavers) <!-- [*github.com/nonleavers*](https://github.com/nonleavers)-->    
 &nbsp;&nbsp;&nbsp;├─ **TikTok** /@nonleavers  
-&nbsp;&nbsp;&nbsp;├── [*tiktok.com/@nonleavers*](https://tiktok.com/@nonleavers)  
+&nbsp;&nbsp;&nbsp;├── [![logo](https://img.shields.io/badge/👉%20tiktok.com/@nonleavers-010101?style=flat-square)](https://tiktok.com/@nonleavers) <!-- [*tiktok.com/@nonleavers*](https://tiktok.com/@nonleavers) -->  
 &nbsp;&nbsp;&nbsp;├─ **Facebook** /nonleavers  
-&nbsp;&nbsp;&nbsp;├── [*facebook.com/nonleavers*](https://facebook.com/nonleavers)  
+&nbsp;&nbsp;&nbsp;├── [![logo](https://img.shields.io/badge/👉%20facebook.com/nonleavers-1877F2?style=flat-square)](https://facebook.com/nonleavers) <!-- [*facebook.com/nonleavers*](https://facebook.com/nonleavers) -->  
 &nbsp;&nbsp;&nbsp;├─ **Instagram** /nonleavers    
-&nbsp;&nbsp;&nbsp;├── [*instagram.com/nonleavers*](https://instagram.com/nonleavers)  
+&nbsp;&nbsp;&nbsp;├── [![logo](https://img.shields.io/badge/👉%20instagram.com/nonleavers-E1306C?style=flat-square)](https://instagram.com/nonleavers) <!--[*instagram.com/nonleavers*](https://instagram.com/nonleavers) -->  
 &nbsp;&nbsp;&nbsp;├─ **YouTube** /@nonleavers  
-&nbsp;&nbsp;&nbsp;├── [*youtube.com/@nonleavers*](https://youtube.com/@nonleavers)  
+&nbsp;&nbsp;&nbsp;├── [![logo](https://img.shields.io/badge/👉%20youtube.com/@nonleavers-FF0000?style=flat-square)](https://youtube.com/@nonleavers)  <!--[*youtube.com/@nonleavers*](https://youtube.com/@nonleavers)-->  
 &nbsp;&nbsp;&nbsp;├─ **Freelancer** /u/nonleavers  
-&nbsp;&nbsp;&nbsp;├── [*freelancer.com/u/nonleavers*](https://freelancer.com/u/nonleavers)  
+&nbsp;&nbsp;&nbsp;├── [![logo](https://img.shields.io/badge/👉%20freelancer.com/u/nonleavers-29B2FE?style=flat-square)](https://freelancer.com/u/nonleavers) <!-- [*freelancer.com/u/nonleavers*](https://freelancer.com/u/nonleavers) -->  
 &nbsp;&nbsp;&nbsp;├─ **LinkedIn** /company/nonleavers  
-&nbsp;&nbsp;&nbsp;└── [![*logo*](https://img.shields.io/badge/👉%20linkedin.com/company/nonleavers-0078D7?style=flat-square&logoColor=white)]([https://nonleavers.com](https://linkedin.com/company/nonleavers))  <!---[*linkedin.com/company/nonleavers*](https://linkedin.com/company/nonleavers)   -->
+&nbsp;&nbsp;&nbsp;└── [![*logo*](https://img.shields.io/badge/👉%20linkedin.com/company/nonleavers-0078D7?style=flat-square&logoColor=white)](https://linkedin.com/company/nonleavers)  <!---[*linkedin.com/company/nonleavers*](https://linkedin.com/company/nonleavers)   -->
 
 
 
