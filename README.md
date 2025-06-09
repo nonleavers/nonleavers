@@ -35,13 +35,13 @@ For dependable IT solutions that don’t just meet but exceed expectations, part
 &nbsp;&nbsp;&nbsp;├─ **WhatsApp**  
 &nbsp;&nbsp;&nbsp;├── [![logo](https://img.shields.io/badge/👉%20wa.me/+971503383219-25D366?style=flat-square)](https://wa.me/+971503383219) <!-- [*wa.me/+971503383219*](https://wa.me/+971503383219) -->  
 &nbsp;&nbsp;&nbsp;├─ **X (Twitter)** /nonleavers  
-&nbsp;&nbsp;&nbsp;├── [![logo](https://img.shields.io/badge/👉%20x.com/nonleavers-000000?style=flat-square)](https://x.com/nonleavers) <!-- [*x.com/nonleavers*](https://x.com/nonleavers) -->  
+&nbsp;&nbsp;&nbsp;├── [![logo](https://img.shields.io/badge/👉%20x.com/nonleavers-333?style=flat-square)](https://x.com/nonleavers) <!-- [*x.com/nonleavers*](https://x.com/nonleavers) -->  
 &nbsp;&nbsp;&nbsp;├─ **Fiverr** /nonleavers  
 &nbsp;&nbsp;&nbsp;├── [![logo](https://img.shields.io/badge/👉%20fiverr.com/nonleavers-1DBF73?style=flat-square)](https://fiverr.com/nonleavers) <!-- [*fiverr.com/nonleavers*](https://fiverr.com/nonleavers) -->  
 &nbsp;&nbsp;&nbsp;├─ **GitHub** /nonleavers  
-&nbsp;&nbsp;&nbsp;├── [![logo](https://img.shields.io/badge/👉%20github.com/nonleavers-181717?style=flat-square)](https://github.com/nonleavers) <!-- [*github.com/nonleavers*](https://github.com/nonleavers)-->    
+&nbsp;&nbsp;&nbsp;├── [![logo](https://img.shields.io/badge/👉%20github.com/nonleavers-333?style=flat-square)](https://github.com/nonleavers) <!-- [*github.com/nonleavers*](https://github.com/nonleavers)-->    
 &nbsp;&nbsp;&nbsp;├─ **TikTok** /@nonleavers  
-&nbsp;&nbsp;&nbsp;├── [![logo](https://img.shields.io/badge/👉%20tiktok.com/@nonleavers-010101?style=flat-square)](https://tiktok.com/@nonleavers) <!-- [*tiktok.com/@nonleavers*](https://tiktok.com/@nonleavers) -->  
+&nbsp;&nbsp;&nbsp;├── [![logo](https://img.shields.io/badge/👉%20tiktok.com/@nonleavers-69C9D0?style=flat-square)](https://tiktok.com/@nonleavers) <!-- [*tiktok.com/@nonleavers*](https://tiktok.com/@nonleavers) -->  
 &nbsp;&nbsp;&nbsp;├─ **Facebook** /nonleavers  
 &nbsp;&nbsp;&nbsp;├── [![logo](https://img.shields.io/badge/👉%20facebook.com/nonleavers-1877F2?style=flat-square)](https://facebook.com/nonleavers) <!-- [*facebook.com/nonleavers*](https://facebook.com/nonleavers) -->  
 &nbsp;&nbsp;&nbsp;├─ **Instagram** /nonleavers    
