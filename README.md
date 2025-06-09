@@ -31,7 +31,7 @@ For dependable IT solutions that don’t just meet but exceed expectations, part
 &nbsp;&nbsp;&nbsp;├─ **Website**  
 &nbsp;&nbsp;&nbsp;├── [![*nonleavers.com*](https://img.shields.io/badge/👉%20nonleavers.com-00C853?style=flat-square)](https://nonleavers.com) <!---[*nonleavers.com*](https://nonleavers.com) -->  
 &nbsp;&nbsp;&nbsp;├─ **Email**  
-&nbsp;&nbsp;&nbsp;├── [![logo](https://img.shields.io/badge/👉%20nonleavers@gmail.com-FF2185?style=flat-square)](mailto:nonleavers@gmail.com) <!--- [*nonleavers@gmail.com*](mailto:nonleavers@gmail.com)  -->
+&nbsp;&nbsp;&nbsp;├── [![logo](https://img.shields.io/badge/👉%20nonleavers@gmail.com-FF2185?style=flat-square)](mailto:nonleavers@gmail.com) <!--- [*nonleavers@gmail.com*](mailto:nonleavers@gmail.com)  --> 
 &nbsp;&nbsp;&nbsp;├─ **WhatsApp**  
 &nbsp;&nbsp;&nbsp;├── [![logo](https://img.shields.io/badge/👉%20wa.me/+971503383219-25D366?style=flat-square)](https://wa.me/+971503383219) <!-- [*wa.me/+971503383219*](https://wa.me/+971503383219) -->  
 &nbsp;&nbsp;&nbsp;├─ **X (Twitter)** /nonleavers  
