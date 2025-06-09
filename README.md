@@ -26,7 +26,7 @@ For dependable IT solutions that don’t just meet but exceed expectations, part
 <pre>🔗 Links:  </pre>
 &nbsp;&nbsp;&nbsp;├─ **Website**  
 &nbsp;&nbsp;&nbsp;├── [*nonleavers.com*](https://nonleavers.com)  
-&nbsp;&nbsp;&nbsp;├─ [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:nonleavers@gmail.com)  
+&nbsp;&nbsp;&nbsp;├─ [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)]  
 &nbsp;&nbsp;&nbsp;├── [*nonleavers@gmail.com*](mailto:nonleavers@gmail.com)  
 &nbsp;&nbsp;&nbsp;├─ **WhatsApp**  
 &nbsp;&nbsp;&nbsp;├── [*wa.me/+971503383219*](https://wa.me/+971503383219)  
