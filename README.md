@@ -52,7 +52,7 @@ For dependable IT solutions that don’t just meet but exceed expectations, part
 ---
 
 **⚡ What are you waiting for?<br/>
-🔌 You have more than one mode to connect...** <img src="https://github.com/user-attachments/assets/8b1a7d43-2958-46c2-9d75-94666f048de6" width="3" height="24" style="vertical-align: -44px;" />
+🔌 You have more than one mode to connect...** <img src="https://github.com/user-attachments/assets/8b1a7d43-2958-46c2-9d75-94666f048de6" width="3" height="20" style="vertical-align: -44px;" />
 
 ---
 
