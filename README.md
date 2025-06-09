@@ -31,7 +31,7 @@ For dependable IT solutions that don’t just meet but exceed expectations, part
 
 ![Links](https://img.shields.io/badge/%F0%9F%94%97%20Links-000000?style=flat-square&logo=cursor&logoColor=white)
 
-![Links](https://img.shields.io/badge/🖱️%20Links-0078D7?style=flat-square&logoColor=white)
+![Links](https://img.shields.io/badge/👉%20Links-0078D7?style=flat-square&logoColor=white)
 
 ![Links](https://img.shields.io/badge/Links-0078D7?style=flat-square&logo=mouse&logoColor=white)
 
