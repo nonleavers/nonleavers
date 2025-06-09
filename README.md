@@ -24,9 +24,13 @@ For dependable IT solutions that don’t just meet but exceed expectations, part
 <br />
 
 <pre>🔗 Links:  </pre>
-![Links](https://img.shields.io/badge/%F0%9F%94%97%20Links-000000?style=flat-square&logo=linktree&logoColor=white)
 
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white)](https://wa.me/+971503383219)  
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=cursor&logoColor=white)](https://wa.me/+971503383219)  
+
+![Links](https://img.shields.io/badge/%F0%9F%94%97%20Links-000000?style=flat-square&logo=mouse-pointer&logoColor=white)
+
+![Links](https://img.shields.io/badge/%F0%9F%94%97%20Links-000000?style=flat-square&logo=cursor&logoColor=white)
+
 &nbsp;&nbsp;&nbsp;├─ **Website**  
 &nbsp;&nbsp;&nbsp;├── [*nonleavers.com*](https://nonleavers.com)  
 &nbsp;&nbsp;&nbsp;├─ **Email**  
