@@ -31,6 +31,13 @@ For dependable IT solutions that don’t just meet but exceed expectations, part
 
 ![Links](https://img.shields.io/badge/%F0%9F%94%97%20Links-000000?style=flat-square&logo=cursor&logoColor=white)
 
+![Links](https://img.shields.io/badge/🖱️%20Links-0078D7?style=flat-square&logoColor=white)
+
+![Links](https://img.shields.io/badge/Links-0078D7?style=flat-square&logo=mouse&logoColor=white)
+
+![Links](https://img.shields.io/badge/Links-0078D7?style=flat-square&logo=mouse-pointer&logoColor=white)
+
+
 &nbsp;&nbsp;&nbsp;├─ **Website**  
 &nbsp;&nbsp;&nbsp;├── [*nonleavers.com*](https://nonleavers.com)  
 &nbsp;&nbsp;&nbsp;├─ **Email**  
@@ -57,14 +64,6 @@ For dependable IT solutions that don’t just meet but exceed expectations, part
 &nbsp;&nbsp;&nbsp;└── [*linkedin.com/company/nonleavers*](https://linkedin.com/company/nonleavers)  
 
 
-
-
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=Google-Chrome&logoColor=white)](https://nonleavers.com)  
-
-
-[![X](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=X&logoColor=white)](https://x.com/nonleavers)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/nonleavers)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/company/nonleavers)  
 
 
 ---
