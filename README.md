@@ -49,6 +49,17 @@ For dependable IT solutions that don’t just meet but exceed expectations, part
 &nbsp;&nbsp;&nbsp;├─ **LinkedIn** /company/nonleavers  
 &nbsp;&nbsp;&nbsp;└── [*linkedin.com/company/nonleavers*](https://linkedin.com/company/nonleavers)  
 
+
+
+
+[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=Google-Chrome&logoColor=white)](https://nonleavers.com)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:nonleavers@gmail.com)  
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white)](https://wa.me/+971503383219)  
+[![X](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=X&logoColor=white)](https://x.com/nonleavers)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/nonleavers)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/company/nonleavers)  
+
+
 ---
 
 **⚡ What are you waiting for?<br/>
