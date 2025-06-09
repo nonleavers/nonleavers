@@ -4,7 +4,7 @@
 
 <p align="center">
   <!--- <code> never leave you stranded in your technology journey...</code>  --->
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=900&color=00FF00&center=true&repeat=false&width=480&weight=600&height=300&background=FF622EF0&lines=Did+you+know+that+%3F;we+never+leave+you+stranded+in+your+technology+journey..." /> <img src="https://github.com/user-attachments/assets/8b1a7d43-2958-46c2-9d75-94666f048de6" width="3" height="8" style="vertical-align: -44px;" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=900&color=00FF00&center=true&repeat=false&width=480&weight=600&background=FF622EF0&lines=Did+you+know+that+%3F;we+never+leave+you+stranded+in+your+technology+journey..." /> <img src="https://github.com/user-attachments/assets/8b1a7d43-2958-46c2-9d75-94666f048de6" width="3" height="8" style="vertical-align: -44px;" />
 
 
   
