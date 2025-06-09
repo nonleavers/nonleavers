@@ -26,10 +26,10 @@ For dependable IT solutions that don’t just meet but exceed expectations, part
 <pre>🔗 Links:  </pre>
 
 
-[![*nonleavers.com*](https://img.shields.io/badge/👉%20nonleavers.com-0078D7?style=flat-square&logoColor=white)](https://nonleavers.com)
+
 
 &nbsp;&nbsp;&nbsp;├─ **Website**  
-&nbsp;&nbsp;&nbsp;├── [*nonleavers.com*](https://nonleavers.com)  
+&nbsp;&nbsp;&nbsp;├── [![*nonleavers.com*](https://img.shields.io/badge/👉%20nonleavers.com-0078D7?style=flat-square&logoColor=white)](https://nonleavers.com) <!---[*nonleavers.com*](https://nonleavers.com) -->  
 &nbsp;&nbsp;&nbsp;├─ **Email**  
 &nbsp;&nbsp;&nbsp;├── [*nonleavers@gmail.com*](mailto:nonleavers@gmail.com)  
 &nbsp;&nbsp;&nbsp;├─ **WhatsApp**  
