@@ -26,7 +26,7 @@ For dependable IT solutions that don’t just meet but exceed expectations, part
 <pre>🔗 Links:  </pre>
 &nbsp;&nbsp;&nbsp;├─ **Website**  
 &nbsp;&nbsp;&nbsp;├── [*nonleavers.com*](https://nonleavers.com)  
-&nbsp;&nbsp;&nbsp;├─ **Email**  
+&nbsp;&nbsp;&nbsp;├─ [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:nonleavers@gmail.com)  
 &nbsp;&nbsp;&nbsp;├── [*nonleavers@gmail.com*](mailto:nonleavers@gmail.com)  
 &nbsp;&nbsp;&nbsp;├─ **WhatsApp**  
 &nbsp;&nbsp;&nbsp;├── [*wa.me/+971503383219*](https://wa.me/+971503383219)  
@@ -53,7 +53,7 @@ For dependable IT solutions that don’t just meet but exceed expectations, part
 
 
 [![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=Google-Chrome&logoColor=white)](https://nonleavers.com)  
-(https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:nonleavers@gmail.com)  
+
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white)](https://wa.me/+971503383219)  
 [![X](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=X&logoColor=white)](https://x.com/nonleavers)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/nonleavers)  
